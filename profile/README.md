@@ -91,18 +91,17 @@ Cassette will allow musicians to:
 
 **User Story**
 
-> As a musician, I want to upload artwork files in different sizes, so I have them ready for all platforms.
+> As a musician, I want to upload artwork file and have it available in different sizes, so I have them ready for all platforms.
 
 **Capabilities**
 - Section: Artwork
 - Upload Artwork button
-- Optional label for each file (e.g., Spotify, YouTube)
 - List of files:
   - File name
   - Label
   - Uploaded date
   - Download link
-
+  - Download medium sized\small sized
 ---
 
 ## 🟢 6. Manage Promo Materials
@@ -148,7 +147,7 @@ Cassette will allow musicians to:
 
 **Capabilities**
 - Section: Notes
-- Rich text field (Markdown or WYSIWYG)
+- Rich text field
 - Save button
 - Display saved notes
 - Links clickable
